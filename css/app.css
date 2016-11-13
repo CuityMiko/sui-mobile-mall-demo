@@ -1,0 +1,42 @@
+.swiper-container img{
+	max-width: 100%;
+}
+
+.ub{display: -webkit-box;}
+.ub-f1{-webkit-box-flex: 1;}
+.ub-img{
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.ub-pa{
+	-webkit-box-align: center;
+	-webkit-box-pack: center;
+}
+
+.block{display: block;}
+.pv{padding: .7em 0;}
+.pv-1{padding: .5em 0;}
+.pv-2{padding: .3em 0;}
+
+
+
+.ui-card{
+	padding: 0 .7em;
+}
+.ui-card a{
+	color:#888;
+	font-size: .8em;
+}
+.tmail{
+	background-image: url(http://gw.alicdn.com/tps/TB1FDOHLVXXXXcZXFXXXXXXXXXX-183-129.png?imgtag=avatar);
+	width: 100%;
+	height: 2rem;
+}
+
+.jvhuasuan{
+	background-image: url("//gw.alicdn.com/tps/i2/TB19BluIVXXXXX6XpXXN4ls0XXX-183-129.png?imgtag=avatar");
+	width: 100%;
+	height: 2rem;
+}
